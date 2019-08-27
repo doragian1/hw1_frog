@@ -130,7 +130,7 @@ public class PlayPage extends AppCompatActivity implements View.OnClickListener 
 
 
             if (currentMiss == 3) {
-                finishGame("You Lose");
+                finishGame("You Lose!");
 
         }
         }
