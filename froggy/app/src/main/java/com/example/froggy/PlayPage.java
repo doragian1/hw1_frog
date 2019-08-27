@@ -98,9 +98,9 @@ public class PlayPage extends AppCompatActivity implements View.OnClickListener 
         intent.putExtra("userPointsMiss", pointsMiss.getText().toString());
         countDown.cancel();
         startActivity(intent);
+
+
         finish();
-
-
     }
     @Override
     public void onClick(View view) {
