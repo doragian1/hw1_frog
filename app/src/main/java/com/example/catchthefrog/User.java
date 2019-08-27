@@ -1,4 +1,4 @@
-package com.example.froggy;
+package com.example.catchthefrog;
 
 class User {
         int points;
